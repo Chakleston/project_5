@@ -17,3 +17,5 @@ Esta aplicación web permite realizar un análisis exploratorio de datos (EDA) s
 pip install -r requirement.txt
 4. Ejecuta la aplicación de Streamlit con:
 streamlit run app.py
+5. Ejecuta en la web el Render con:
+"<https://project-5-car-eda.onrender.com/>"
